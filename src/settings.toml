@@ -1,0 +1,6 @@
+file_filter = [".html", ".md", ".svelte", ".js", ".ts", ".css", ".postcss", ".json"]
+repo_url="https://github.com/spuithori/tokimekibluesky"
+repo_path="src"
+ollama_base_url="http://192.168.11.34:11434"
+ollama_model="qwen2.5:14b"
+ollama_embedding_model="mxbai-embed-large:latest"
